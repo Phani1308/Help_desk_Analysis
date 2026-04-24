@@ -57,8 +57,7 @@ The dataset contains the following key attributes:
 ---
 
 ## 📷 Dashboard Preview
-*(Add your dashboard screenshot here)*  
-Example:
+
 <img width="1167" height="657" alt="image" src="https://github.com/user-attachments/assets/3178bc51-4c2a-4553-9543-e09cd15568bf" />
 <img width="1153" height="647" alt="image" src="https://github.com/user-attachments/assets/a3d148bb-4e57-4fb9-bebc-fd797193ef4f" />
 <img width="1166" height="652" alt="image" src="https://github.com/user-attachments/assets/d8b4074a-8007-489a-844f-89ef4b3d07a1" />
